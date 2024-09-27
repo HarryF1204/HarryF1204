@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Harry! </h1>
-<h5 align="center"> A Bedrock Modder for Eternal Creations and Hobbiest Software Engineer </h5>
+<h5 align="center"> A Bedrock Modder at Eternal Creations and Hobbiest Software Engineer </h5>
 
 ### Languages and Tools 
 <p align="center" style="display: inline-block;">
