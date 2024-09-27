@@ -1,8 +1,8 @@
 <h1 align="center"> Hey, I'm Harry! </h1>
-<h5 align="center"> A Bedrock Modder at Eternal Creations and Hobbiest Software Engineer </h5>
+<h3 align="center"> A Bedrock Modder at Eternal Creations and Hobbiest Software Engineer </h3>
 
-### Languages and Tools 
-<p align="center" style="display: inline-block;">
+<h2> Languages and Tools </h1> 
+<p align="left" style="display: inline-block;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
