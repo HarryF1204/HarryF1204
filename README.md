@@ -36,4 +36,7 @@
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
 </a>
+<a href="https://vuejs.org/guide/introduction.html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
+</a>
 </p>
