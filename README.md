@@ -30,6 +30,9 @@
 <a href="https://vuejs.org/guide/introduction.html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
 </a>
+<a href="https://vitepress.dev" target="_blank" rel="noreferrer">
+  <img src="https://vitepress.dev/vitepress-logo-mini.svg" alt="VitePress" width="40" height="40" />
+</a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
