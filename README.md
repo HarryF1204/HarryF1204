@@ -1,6 +1,13 @@
 <h1 align="center"> Hey, I'm Harry! </h1>
 <h3 align="center"> Lead Developer at Eternal Creations, Hobbyist Web-App Developer and Cyber Security Student </h3>
 
+<div align="center" style="margin-top: 10px;">
+  <a href="https://harryf1204.github.io/PortfolioSite/" 
+     style="text-decoration: none; color: #00bfff; font-weight: bold; font-size: 1.1em;">
+    🔗 Visit My Portfolio
+  </a>
+</div>
+
 <h2> Languages and Tools </h1> 
 <p align="left" style="display: inline-block;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
