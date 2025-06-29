@@ -6,6 +6,10 @@
      style="text-decoration: none; color: #00bfff; font-weight: bold; font-size: 1.1em;">
     🔗 Visit My Portfolio
   </a>
+    <a href="https://www.the-bedrock-notebook.dev" 
+     style="text-decoration: none; color: #00bfff; font-weight: bold; font-size: 1.1em;">
+    🔗 The Bedrock Notebook
+  </a>
 </div>
 
 <h2> Languages and Tools </h1> 
