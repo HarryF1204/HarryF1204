@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Harry!</h1>
+<h2 align="center">Hey, I'm Harry!</h2>
 <h3 align="center">Lead Developer at Eternal Creations • Web App Dev • Cyber Security Student</h3>
 
 <p align="center">
@@ -48,9 +48,6 @@
 
 ---
 
-### 📬 Shameless Plugs
+### 📬 Contact Me
 
 - 💬 Discord: `pinkthingfromnintendo`
-
----
-
