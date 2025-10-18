@@ -31,10 +31,8 @@
 
 ### ❤️ About Me
 
-- 🧠 I'm a fourth-year **Cyber Security and Computing Science student**.
-- 🎮 Lead dev at **Eternal Creations**, focusing on Minecraft Bedrock DLCs and internal tools.
-- 🔒 Interested in **game development**, **malware analysis**, and **defencive security**.
-- 🌐 I build full-stack web apps for creative and technical domains.
+- I'm a fourth-year **Cyber Security and Computing Science student**.
+- Lead dev at **Eternal Creations**, focusing on Minecraft Bedrock DLCs.
 
 ---
 
