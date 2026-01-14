@@ -15,10 +15,8 @@
 <p align="center"><strong>Tech Stack:</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
 </p>
 
 <p align="center">
@@ -32,19 +30,9 @@
 ### ❤️ About Me
 
 - I'm a fourth-year **Cyber Security and Computing Science student**.
+- Studying decentralised networks for use in social media.
 - Lead dev at **Eternal Creations**, focusing on Minecraft Bedrock DLCs.
-
----
-
-### 🔭 Recent Projects
-
-- **Malware Classifier** – Two-stage memory analysis using ML to detect malware families.
-- **WannaCry Analysis** – Full static/dynamic breakdown of the wannacry ransomware.
-- **Knotsapp** - Web-based full-stack end-to-end encrypted chat application.
-- **More Enchantments Addon** - A Minecraft DLC adding 20+ new enchantments.
-- **Biome Craft Addon** - A Minecraft DLC adding 4 new biomes.
-
----
+- Author of The Bedrock Notebook Minecraft documentation
 
 ### 📬 Contact Me
 
