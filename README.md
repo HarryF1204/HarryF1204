@@ -5,10 +5,6 @@
   <a href="https://harryf1204.github.io/PortfolioSite/" target="_blank">
     🔗 Portfolio
   </a>
-  &nbsp;|&nbsp;
-  <a href="https://www.the-bedrock-notebook.dev" target="_blank">
-    📘 The Bedrock Notebook
-  </a>
 </p>
 
 ---
