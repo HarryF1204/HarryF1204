@@ -26,7 +26,6 @@
 ### ❤️ About Me
 
 - BSc Computing Science with Cyber Sec
-- Studying decentralised networks for use in social media.
 - Lead dev at **Eternal Creations**, focusing on Minecraft Bedrock DLCs.
 - Author of The Bedrock Notebook Minecraft documentation
 
